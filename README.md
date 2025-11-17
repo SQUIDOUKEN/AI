@@ -1,2 +1,2 @@
 https://gandalf.lakera.ai/leaderboard/agent-breaker
-#10, baby!
+\n#10, baby!
