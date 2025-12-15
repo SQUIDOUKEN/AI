@@ -1,3 +1,3 @@
 https://gandalf.lakera.ai/leaderboard/agent-breaker
 
-#10, baby!
+#5, baby!
